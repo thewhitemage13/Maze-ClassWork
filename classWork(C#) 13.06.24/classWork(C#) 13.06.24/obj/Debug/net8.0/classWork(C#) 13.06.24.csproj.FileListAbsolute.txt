@@ -1,0 +1,14 @@
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\bin\Debug\net8.0\classWork(C#) 13.06.24.exe
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\bin\Debug\net8.0\classWork(C#) 13.06.24.deps.json
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\bin\Debug\net8.0\classWork(C#) 13.06.24.runtimeconfig.json
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\bin\Debug\net8.0\classWork(C#) 13.06.24.dll
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\bin\Debug\net8.0\classWork(C#) 13.06.24.pdb
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\obj\Debug\net8.0\classWork(C#) 13.06.24.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\obj\Debug\net8.0\classWork(C#) 13.06.24.AssemblyInfoInputs.cache
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\obj\Debug\net8.0\classWork(C#) 13.06.24.AssemblyInfo.cs
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\obj\Debug\net8.0\classWork(C#) 13.06.24.csproj.CoreCompileInputs.cache
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\obj\Debug\net8.0\classWork(C#) 13.06.24.dll
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\obj\Debug\net8.0\refint\classWork(C#) 13.06.24.dll
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\obj\Debug\net8.0\classWork(C#) 13.06.24.pdb
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\obj\Debug\net8.0\classWork(C#) 13.06.24.genruntimeconfig.cache
+D:\.Net\Class Work\classWork(C#) 13.06.24\classWork(C#) 13.06.24\obj\Debug\net8.0\ref\classWork(C#) 13.06.24.dll
